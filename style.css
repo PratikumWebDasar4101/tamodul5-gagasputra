@@ -1,0 +1,75 @@
+.login {
+    color: black;
+    border: 1px solid black;
+    padding: 1%;
+    margin: 0 42.2% ;
+    border-radius: 0 0 10px 10px;
+}
+
+.login > input {
+    margin: 0;
+    padding: 2%;
+}
+
+#kirim {
+    border-radius: 10px;
+    border: 0;
+    background-color: rgb(52, 114, 202);
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+}
+
+#utama > input[type='text'],input[type='email'] {
+    width: 100%;
+}
+
+.input {
+    color: white;
+    padding: 1%;
+    float: left;
+    background-color:rgb(52, 114, 202);
+    width: 50%;
+    margin: 0 25%;
+    border-radius: 15px;   
+}
+
+#utama {
+    width: 45%;
+    padding: 2%;
+    float: left;
+}
+
+#dropdown {
+    padding: 2%;
+    width: 44%;
+    float: left;
+}
+
+#judul {
+    float: left;
+}
+
+#pertama {
+    padding: 2%;
+    width: 43%;
+    float: left;
+}
+
+#seterusnya {
+    margin-top: -10%;
+    margin-left: 2%;   
+    float: left;
+}
+
+#submit {
+    width: 15%;
+    background-color: white;
+    padding: 1%;
+    border: 0;
+    margin-left: 2%;
+    border-radius: 5px;
+    float: left;
+}
